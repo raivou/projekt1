@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello World"
-date
+echo "Tere vaata minu scripti"
+date +%d%m%Y
